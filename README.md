@@ -1,0 +1,3 @@
+This plugin automatically creates pop-out navigation menus from nested unordered lists of links. It's not the fanciest menu you'll see, but it is fast, easy to understand and easy to customise. It's also extremely lightweight, weighing in at about 1.5kb uncompressed.
+
+Pure CSS menus almost identical to this are entirely possible, but this menu implements a small delay on rollover and mouseout, making it much more usable and forgiving.
